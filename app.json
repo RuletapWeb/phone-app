@@ -8,5 +8,9 @@
     "assetBundlePatterns": [
       "**/*"
     ]
+  },
+  "splash": {
+    "image": "./images/logo.png",
+    "backgroundColor": "white"
   }
 }
