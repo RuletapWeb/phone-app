@@ -3,7 +3,7 @@ import { Text } from 'react-native';
 
 const Header = (props) => {
   return (
-    <Text>Hello {props.name}, Welcome to RuleTap!</Text>
+    <Text>RuleTap Header</Text>
   );
 }
 
