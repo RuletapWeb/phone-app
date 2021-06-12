@@ -18,7 +18,7 @@ export default function Homescreen({navigation}) {
         <CustomInput placeholder="PIN" infoText="Tu clave de seguridad es la misma que el de la App"/>
         <CustomButton label="Iniciar Sesión"/>
         <StatusBar style="auto" />
-        <CustomTouchableOpacity title="Hello World!" behavior={() => navigation.navigate("Premio Canjeado")}/>
+        <CustomTouchableOpacity title="Hello World!" behavior={() => navigation.navigate("Err")}/>
       </View>
   );
 }
