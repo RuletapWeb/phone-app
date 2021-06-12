@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components/native';
-import Layout from '../components/Layout';
+import Layout from '../Layout';
 
 const FullHeight = styled.div`
   min-height: 100vh;
